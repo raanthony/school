@@ -18,8 +18,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/InitController.php">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="611">
               <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+=======
+            <state relative-caret-position="536">
+              <caret line="44" column="54" selection-start-line="44" selection-start-column="54" selection-end-line="44" selection-end-column="54" />
+>>>>>>> test
               <folding>
                 <element signature="e#40#61#0#PHP" expanded="true" />
               </folding>
@@ -186,12 +191,16 @@
       <option name="presentableId" value="Default" />
       <updated>1604991454484</updated>
       <workItem from="1604991456622" duration="4603000" />
-      <workItem from="1605071669632" duration="4231000" />
+      <workItem from="1605071669632" duration="4372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="8851000" />
+=======
+    <option name="totallyTimeSpent" value="9035000" />
+>>>>>>> test
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -413,6 +422,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/InitController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="611">
@@ -423,6 +433,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> test
     <entry file="file://$PROJECT_DIR$/resources/views/init/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="386">
@@ -448,6 +460,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/InitController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="44" column="54" selection-start-line="44" selection-start-column="54" selection-end-line="44" selection-end-column="54" />
+          <folding>
+            <element signature="e#40#61#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

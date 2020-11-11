@@ -41,6 +41,10 @@ class InitController extends Controller
             ->with('message','Enregistrement avec succès');
     }
 
+    public function edit(Request $request,Eleve $eleve){
+
+    }
+
 
     public function show(Request $request, Eleve $eleve){
 
