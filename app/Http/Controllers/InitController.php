@@ -16,12 +16,8 @@ class InitController extends Controller
         $eleve = Eleve::find('2');
         $eleve->update([
             'nom' => $eleve->nom . ' modif'
-        ]);*/ù
+        ]);*/
 
-        klkmsùldfklmskdflm
-
-
-        jklsdjmkljk
 
         return view('init/index',[
             'eleves' => $eleves
@@ -44,5 +40,9 @@ class InitController extends Controller
 
         return redirect(route('eleve.index'))
             ->with('message','Enregistrement avec succès');
+    }
+
+    public function edit(Request $request,Eleve $eleve){
+
     }
 }
