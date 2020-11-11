@@ -40,4 +40,9 @@ class InitController extends Controller
         return redirect(route('eleve.index'))
             ->with('message','Enregistrement avec succès');
     }
+
+
+    public function show(Request $request, Eleve $eleve){
+
+    }
 }
